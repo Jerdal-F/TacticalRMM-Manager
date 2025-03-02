@@ -102,5 +102,4 @@ This feature helps first-time users to set up the app.
 
 ## Support
 
-**Limited Features & No Official Support:**  
-This app is provided as-is with limited features. There is no dedicated support channel available. If you encounter issues or have suggestions, please feel free to create an issue on this GitHub repository.
+For questions and support, please open an issue on this GitHub repository.
