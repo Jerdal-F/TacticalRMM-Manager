@@ -99,6 +99,10 @@ You have two options:
 This feature helps first-time users to set up the app.
 
 ---
+## Open Source
+
+You can find the source code [here](https://github.com/Jerdal-F/TRMM-Manager)
+
 
 ## Support
 
