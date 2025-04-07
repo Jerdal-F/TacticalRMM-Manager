@@ -16,7 +16,8 @@
    - [Agent Management](#agent-management)
    - [Agent Actions](#agent-actions)
 5. [First Run Guide Pop-Up](#first-run-guide-pop-up)
-6. [Support](#support)
+6. [Open Source](#open-source)
+7. [Support](#support)
 
 ---
 
