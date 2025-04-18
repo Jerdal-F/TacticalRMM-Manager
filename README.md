@@ -1,5 +1,11 @@
 # Tactical RMM Agent Manager - User Guide
 
+<img src="./Images/TRMM%20Manager%20Icon.png" alt="TRMM Manager Icon" width="200" /> <a href="https://apps.apple.com/us/app/trmm-manager/id6742686284"><img src="Images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="Download on the App Store" width="200" /></a>
+
+
+
+
+
 > **Disclaimer:** This app is an independent project and is not made by or affiliated with Tactical RMM/AmidaWare.
 
 > **Note:** You must have your own Tactical RMM Server.
