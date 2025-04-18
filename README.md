@@ -40,7 +40,7 @@ Tactical RMM Agent Manager is built with SwiftUI and is designed to monitor and 
 The app is available on the **Apple App Store**. To install:
 
 1. Open the App Store on your device.
-2. Search for **"Independent Agent Manager"**.
+2. Search for **"TRMM Manager"**.
 3. Tap **Download** and install the app.
 
 ---
