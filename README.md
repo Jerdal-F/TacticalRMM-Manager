@@ -76,12 +76,18 @@ Follow the steps outlined in the documentation to obtain your API key.
 
 ### Agent Actions
 
-Within an agent’s detail view, you have four buttons for remote actions:
+Within an agent’s detail view.
 
 - **Shutdown**: Sends a command to shut down the agent.
 - **Reboot**: Sends a command to reboot the agent.
-- **Control**: Opens a console session or control interface for direct interaction with the agent using MeshCentral.
+- **Console**: Opens a console session or control interface for direct interaction with the agent using MeshCentral.
 - **Take Control**: Connects to the agent’s control URL for full remote control using MeshCentral.
+- **Wake-On-Lan**: Sends a WOL command using other agents on the same network.
+- **Porcesses**: Shows the running processes on the agent, also allows you to kill processes.
+- **Send Command**: Allows you to send CMD and PowerShell commands to the agent.
+- **Notes**: Shows you the notes for the agent.
+- **Tasks**: Shows all tasks for the agent.
+  
 
 *Note*: The functionality of "Control" versus "Take Control" may vary depending on your configuration and the agent's operating system.
 
