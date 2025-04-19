@@ -23,7 +23,8 @@
    - [Agent Actions](#agent-actions)
 5. [First Run Guide Pop-Up](#first-run-guide-pop-up)
 6. [Open Source](#open-source)
-7. [Support](#support)
+7. [TestFlight](#testflight)
+8. [Support](#support)
 
 ---
 
@@ -115,6 +116,13 @@ This feature helps first-time users to set up the app.
 ## Open Source
 
 You can find the source code [here](https://github.com/Jerdal-F/TRMM-Manager)
+
+
+## TestFlight
+
+You can test early builds [here](https://testflight.apple.com/join/epsFG6xE).
+
+**Note:** These builds can be unstable.
 
 
 ## Support
