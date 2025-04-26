@@ -21,10 +21,12 @@
    - [API Settings](#api-settings)
    - [Agent Management](#agent-management)
    - [Agent Actions](#agent-actions)
+   - [Custom Fields](#custom-fields)
 5. [First Run Guide Pop-Up](#first-run-guide-pop-up)
 6. [Open Source](#open-source)
 7. [TestFlight](#testflight)
-8. [Support](#support)
+8. [Donation](#donation)
+9. [Support](#support)
 
 ---
 
@@ -98,7 +100,15 @@ Within an agent’s detail view.
 
 *Note*: The functionality of "Control" versus "Take Control" may vary depending on your configuration and the agent's operating system.
 
----
+
+### Custom Fields
+
+Currently, the app only displays custom fields. It is not possible to add or modify custom fields from within the app.
+
+| Custom Fields Available on Agent                                                     |   | No Custom Fields Available on Agent                                                |
+|--------------------------------------------------------------------------------------|---|------------------------------------------------------------------------------------|
+| <img src="./Images/CustomFieldsOn.png" alt="Custom Fields Available" width="215" />  | | <img src="./Images/CustomFieldsOff.png" alt="No Custom Fields" width="200" />      |
+
 
 ## First Run Guide Pop-Up
 
@@ -124,7 +134,12 @@ You can test early builds [here](https://testflight.apple.com/join/epsFG6xE).
 
 **Note:** These builds can be unstable.
 
+## Donation
+
+Donations helps support the ongoing development of this app and cover the annual fees associated with maintaining iOS applications.
+
+<a href="https://www.buymeacoffee.com/Jerdal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Support
 
-For questions and support, please open an issue on this GitHub repository.
+For questions and support, please open an issue on this GitHub repository or email me at [support@jerdal.site](mailto:support@jerdal.site).
