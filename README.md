@@ -26,7 +26,7 @@
 6. [Open Source](#open-source)
 7. [TestFlight](#testflight)
 8. [Donation](#donation)
-9. [Privacy Policy](#privacy_policy)
+9. [Privacy Policy](#privacy-policy)
 10. [Support](#support)
 
 ---
