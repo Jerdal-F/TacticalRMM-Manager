@@ -26,7 +26,8 @@
 6. [Open Source](#open-source)
 7. [TestFlight](#testflight)
 8. [Donation](#donation)
-9. [Support](#support)
+9. [Privacy Policy](#privacy_policy)
+10. [Support](#support)
 
 ---
 
@@ -139,6 +140,10 @@ You can test early builds [here](https://testflight.apple.com/join/epsFG6xE).
 Donations helps support the ongoing development of this app and cover the annual fees associated with maintaining iOS applications.
 
 <a href="https://www.buymeacoffee.com/Jerdal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+## Privacy Policy
+
+You can find the Privacy Policy [here](https://github.com/Jerdal-F/TacticalRMM-Manager/blob/main/Privacy_Policy.md)
 
 ## Support
 
