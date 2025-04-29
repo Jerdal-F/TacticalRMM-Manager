@@ -25,10 +25,10 @@
 5. [First Run Guide Pop-Up](#first-run-guide-pop-up)
 6. [Open Source](#open-source)
 7. [TestFlight](#testflight)
-8. [Privacy Policy](#privacy-policy))
+8. [Privacy Policy](#privacy-policy)
 10. [Donation](#donation)
 11. [Support](#support)
-    - [Diagnostics](#diagnostics)
+12. [Diagnostics](#diagnostics)
 
 ---
 
