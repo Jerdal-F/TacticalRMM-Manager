@@ -25,9 +25,10 @@
 5. [First Run Guide Pop-Up](#first-run-guide-pop-up)
 6. [Open Source](#open-source)
 7. [TestFlight](#testflight)
-8. [Donation](#donation)
-9. [Privacy Policy](#privacy-policy)
-10. [Support](#support)
+8. [Privacy Policy](#privacy-policy))
+10. [Donation](#donation)
+11. [Support](#support)
+    - [Diagnostics](#diagnostics)
 
 ---
 
@@ -148,3 +149,8 @@ You can find the Privacy Policy [here](https://github.com/Jerdal-F/TacticalRMM-M
 ## Support
 
 For questions and support, please open an issue on this GitHub repository or email me at [support@jerdal.site](mailto:support@jerdal.site).
+
+## Diagnostics
+
+The app includes a built-in log file that captures debug logs.  
+To access the log file, hold down the “Tactical RMM” label at the top of the app for a few seconds.
