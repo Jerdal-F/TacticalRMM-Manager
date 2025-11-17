@@ -149,7 +149,8 @@ You can find the Privacy Policy [here](https://github.com/Jerdal-F/TacticalRMM-M
 
 ## Support
 
-For questions and support, please open an issue on this GitHub repository or email me at [support@jerdal.site](mailto:support@jerdal.site).
+For questions and support, please open an issue on this GitHub repository or email me at [support@jerdal.no](mailto:support@jerdal.no).
+**Please note that replies may come from a different address within the same domain.**
 
 ## Diagnostics
 
