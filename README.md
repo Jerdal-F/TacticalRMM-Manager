@@ -11,6 +11,14 @@
 
 > **Note:** You must have your own Tactical RMM Server.
 
+
+## [Demo Video](https://streamable.com/1wpycm)
+
+
+
+
+
+
 ---
 
 ## Table of Contents
@@ -110,7 +118,7 @@ Currently, the app only displays custom fields. It is not possible to add or mod
 
 | Custom Fields Available on Agent                                                     |   | No Custom Fields Available on Agent                                                |
 |--------------------------------------------------------------------------------------|---|------------------------------------------------------------------------------------|
-| <img src="./Images/CustomFieldsOn.png" alt="Custom Fields Available" width="215" />  | | <img src="./Images/CustomFieldsOff.png" alt="No Custom Fields" width="200" />      |
+| <img src="./Images/%09%20CustomFieldsOn_New.png" alt="Custom Fields Available" width="215" />  | | <img src="./Images/%09%20CustomFieldsOff_new.png" alt="No Custom Fields" width="215" />      |
 
 
 ## First Run Guide Pop-Up
